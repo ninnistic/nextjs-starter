@@ -1,15 +1,6 @@
 {
   "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
-  "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
-  "license": "MIT",
-  "keywords": [
-    "nextjs",
-    "starter",
-    "typescript"
-  ],
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -48,5 +39,6 @@
     "lint-staged": "15.0.1",
     "prettier": "3.0.3",
     "typescript": "5.2.2"
-  }
+  },
+  "packageManager": "yarn@3.6.4"
 }
